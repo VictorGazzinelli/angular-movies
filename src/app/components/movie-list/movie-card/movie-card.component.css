@@ -1,0 +1,11 @@
+
+.movie-card{
+  text-align: center;
+  font-size: medium; 
+  font-weight: bold;
+  color: white;
+}
+
+.movie-card img{
+  width: 200px;
+}
